@@ -6,7 +6,7 @@
 
 body {
   font-family: sans-serif;
-  color: #444;
+  color: #255;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 h1,
 h2,
 h3 {
-  color: #1098ad;
+  color: #87;
 }
 
 nav a {
@@ -140,12 +140,12 @@ footer p {
 /* Styling Links */
 
 a:link {
-  color: #1098ad;
+  color: #51;
   text-decoration: none;
 }
 
 a:visited {
-  color: #1098ad;
+  color: #51;
 }
 
 a:hover {
@@ -228,7 +228,7 @@ footer {
 }
 
 aside {
-  flex: 0 0 330px;
+  flex: 0 0 400px;
 }
 
 article {
